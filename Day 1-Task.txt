@@ -1,1 +1,14 @@
-df
+Write a blog on Difference between HTTP1.1 vs HTTP2
+
+HTTP1.1 is a begineer version of http in this version they introuced some features like put, delete,option and trace
+which is used to perform create, delete,post option in our http and then some additional features are cache mechnism
+
+HTTP2 is upgrades version of http1.1 which perform more speed and efficently and additinally some security fetures are 
+also introuced in this version.
+
+
+
+Write a blog about objects and its internal representation in Javascript
+
+object in javascript is used identify the data more effectively, it contains the properites of the data to 
+perform
