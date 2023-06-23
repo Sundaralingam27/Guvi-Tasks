@@ -1,0 +1,6 @@
+Difference between document and windows object ?
+
+windows object means its a web browser contains document objects for example in my google browser i opened some 
+tabs like facebook,gmail and youtube webpages. In that browser that facebook,gmail and youtube are called as doument 
+object.
+
